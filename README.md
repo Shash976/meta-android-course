@@ -1,2 +1,2 @@
 # android-stuff
-Beginner stuff I did with Android Studio
+Projects from Meta's Android Development course on Coursera using Kotlin and JetPack compose.
